@@ -1,0 +1,2 @@
+# pacebar
+ClaudeとCodexの使用率をMacのメニューバーに表示するアプリ
